@@ -13,7 +13,7 @@ export class Player {
         this.score = 15774743
 
         this.dead = false
-        this.maxHp = 10
+        this.maxHp = 100000000000000000
         this.hp = this.maxHp
 
         this.bullets = []
