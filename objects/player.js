@@ -10,7 +10,7 @@ export class Player {
         this.name = 'player'
         this.x = x
         this.y = y
-        this.score = 15774743
+        this.score = 1
 
         this.dead = false
         this.maxHp = 3
